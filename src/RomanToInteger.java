@@ -35,7 +35,7 @@ public class RomanToInteger {
   
  public static void main(String args[])
  {
-   // we take input as a String
+   
 	 Scanner sc = new Scanner(System.in);
 	 System.out.println("Enter in roman");
    String romanNumber=sc.next();
